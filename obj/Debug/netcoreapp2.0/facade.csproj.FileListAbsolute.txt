@@ -1,0 +1,11 @@
+/Users/koji/Repositories/Csharp/facade/bin/Debug/netcoreapp2.0/facade.deps.json
+/Users/koji/Repositories/Csharp/facade/bin/Debug/netcoreapp2.0/facade.runtimeconfig.json
+/Users/koji/Repositories/Csharp/facade/bin/Debug/netcoreapp2.0/facade.runtimeconfig.dev.json
+/Users/koji/Repositories/Csharp/facade/bin/Debug/netcoreapp2.0/facade.dll
+/Users/koji/Repositories/Csharp/facade/bin/Debug/netcoreapp2.0/facade.pdb
+/Users/koji/Repositories/Csharp/facade/obj/Debug/netcoreapp2.0/facade.csprojResolveAssemblyReference.cache
+/Users/koji/Repositories/Csharp/facade/obj/Debug/netcoreapp2.0/facade.csproj.CoreCompileInputs.cache
+/Users/koji/Repositories/Csharp/facade/obj/Debug/netcoreapp2.0/facade.AssemblyInfoInputs.cache
+/Users/koji/Repositories/Csharp/facade/obj/Debug/netcoreapp2.0/facade.AssemblyInfo.cs
+/Users/koji/Repositories/Csharp/facade/obj/Debug/netcoreapp2.0/facade.dll
+/Users/koji/Repositories/Csharp/facade/obj/Debug/netcoreapp2.0/facade.pdb
